@@ -1,0 +1,1 @@
+{"data":{"description":"empty blocks","head_block":10000,"next_index":10000,"root_hash":"0x5dfcfc5c5ac29b67e05c95b504587370a0ebe3cae158191c03bd660361a4f58e"},"query":{"description":"full block range","fromBlock":0,"toBlock":10000,"address":["0x2a00000000000000000000000000000000000000"],"topics":null,"results":null}}
